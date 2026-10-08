@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-label="Contoh QRIS">
+  <rect width="240" height="240" rx="12" fill="#fff" stroke="#C92B47" stroke-width="3" stroke-dasharray="8 6"/>
+  <text x="120" y="92" text-anchor="middle" font-family="sans-serif" font-size="40" font-weight="800" fill="#14162E">QRIS</text>
+  <text x="120" y="128" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="700" fill="#C92B47">CONTOH, BUKAN QRIS ASLI</text>
+  <text x="120" y="156" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#666C8C">Ganti file frontend/public/qris.svg</text>
+  <text x="120" y="174" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#666C8C">dengan gambar QRIS gym Anda</text>
+</svg>
